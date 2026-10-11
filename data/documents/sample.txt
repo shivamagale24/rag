@@ -1,0 +1,7 @@
+Enterprise RAG Knowledge Base Engine
+
+Employees must follow company policies.
+
+The company provides annual leave according to the employee handbook.
+
+All confidential information must be protected.

@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies and builds
+rag-frontend/node_modules/
+rag-frontend/dist/
+
+# Private documents
+data/documents/resume.pdf
+
+# Local vector databases and generated indexes
+data/qdrant/
+data/vector_store/
+
+# Archives
+rag-frontend.zip
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
